@@ -2,6 +2,8 @@
 
 Based on Alexandre Lacheze’s [PEGjs.tmbundle](https://github.com/alexstrat/PEGjs.tmbundle).
 
+![PEG.js Syntax Highlighting Screenshot](images/pegjs.png)
+
 ## Installation
 
 1. Check out the git repository.
