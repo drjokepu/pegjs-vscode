@@ -12,4 +12,4 @@ Based on Alexandre Lacheze’s [PEGjs.tmbundle](https://github.com/alexstrat/PEG
 e.g. on OS X and Linux:
 
     $ git checkout https://github.com/drjokepu/pegjs-vscode.git
-    $ cp pegjs-vscode/pegjs ~/.vscode/extensions
+    $ cp -r pegjs-vscode/pegjs ~/.vscode/extensions
